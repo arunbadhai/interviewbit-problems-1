@@ -1,10 +1,10 @@
 Solved:
 
 April 2017:
-15 - max_non_negative_subarray, noble_integer
+15 - max_non_negative_subarray, noble_integer, largest_number
 
 Done with help:
-
+largest_number (tried to compare next character after the current instead of comparing of two combinations)
 
 Done by myself but need attention:
 
